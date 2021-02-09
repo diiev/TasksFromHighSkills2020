@@ -1,0 +1,13 @@
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\bin\Debug\netcoreapp3.1\TasksFromHighSkills2020.exe
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\bin\Debug\netcoreapp3.1\TasksFromHighSkills2020.deps.json
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\bin\Debug\netcoreapp3.1\TasksFromHighSkills2020.runtimeconfig.json
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\bin\Debug\netcoreapp3.1\TasksFromHighSkills2020.runtimeconfig.dev.json
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\bin\Debug\netcoreapp3.1\TasksFromHighSkills2020.dll
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\bin\Debug\netcoreapp3.1\TasksFromHighSkills2020.pdb
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.csprojAssemblyReference.cache
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.AssemblyInfoInputs.cache
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.AssemblyInfo.cs
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.csproj.CoreCompileInputs.cache
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.dll
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.pdb
+C:\Users\DrM\source\repos\diiev\TasksFromHighSkills2020\TasksFromHighSkills2020\TasksFromHighSkills2020\obj\Debug\netcoreapp3.1\TasksFromHighSkills2020.genruntimeconfig.cache
