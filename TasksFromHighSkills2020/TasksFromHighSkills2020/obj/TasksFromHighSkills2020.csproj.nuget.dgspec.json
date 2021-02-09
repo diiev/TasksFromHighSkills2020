@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DrM\\source\\repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj": {}
+    "C:\\Users\\DrM\\Source\\Repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DrM\\source\\repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj": {
+    "C:\\Users\\DrM\\Source\\Repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DrM\\source\\repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj",
+        "projectUniqueName": "C:\\Users\\DrM\\Source\\Repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj",
         "projectName": "TasksFromHighSkills2020",
-        "projectPath": "C:\\Users\\DrM\\source\\repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj",
+        "projectPath": "C:\\Users\\DrM\\Source\\Repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020.csproj",
         "packagesPath": "C:\\Users\\DrM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DrM\\source\\repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\obj\\",
+        "outputPath": "C:\\Users\\DrM\\Source\\Repos\\diiev\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\TasksFromHighSkills2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DrM\\AppData\\Roaming\\NuGet\\NuGet.Config",
